@@ -10,7 +10,6 @@ If you’re experiencing issues, have questions, or want to share feedback, you�
 If you need help, reach out anytime:
 
 **Email:** g.andriadze2@gmail.com
-*(If you don’t own this domain, replace with any email you control — e.g., a Gmail or ProtonMail.)*
 
 ---
 
