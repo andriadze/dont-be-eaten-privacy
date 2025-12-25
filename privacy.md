@@ -1,8 +1,8 @@
-# Privacy Policy — Don’t Be Eaten
+# Privacy Policy — Below The Surface
 **Last Updated:** 15 November 2025
 
 ## Overview
-**Don’t Be Eaten** aims to collect as little data as possible.  
+**Below The Surface** aims to collect as little data as possible.  
 At this time, the game collects **no personal information** and does **not** require user accounts.
 
 The game is built with **Kaboom.js**, a JavaScript game engine.  
@@ -96,9 +96,9 @@ The latest version will always be available here.
 For any privacy-related questions, contact:
 
 **Email:** gandriadze30@gmail.com 
-**Developer:** Giorgi Andriadze
+**Developer:** Giorgi Andriadze (Golden Hammer Games)
 
 ---
 
 ## Consent
-By installing or using **Don’t Be Eaten**, you agree to this Privacy Policy.
+By installing or using **Below The Surface**, you agree to this Privacy Policy.
